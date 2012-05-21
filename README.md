@@ -8,4 +8,5 @@ my test
 12:00
 12:12 conflict resolved
 12:28 changes new branch
+12:29 change master branch
 
