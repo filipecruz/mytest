@@ -9,4 +9,5 @@ my test
 12:12 conflict resolved
 12:30 changes master branch
 17:06 newbranch changes
+17:09 new changes newbranch
 
